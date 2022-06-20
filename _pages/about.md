@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='../assets/pdf/Resume.pdf'>Resume (Updated June 2022)</a>.
+subtitle: <a href='https://drive.google.com/file/d/1oznxI7Za3drOtkALz9a4A4XKMe3TnkK3/view?usp=sharing'>Resume (Updated June 2022)</a>.
 
 profile:
   align: right
