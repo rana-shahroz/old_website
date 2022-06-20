@@ -4,7 +4,7 @@ title: About
 permalink: /
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   address: >
     <p>Nashville, TN 37235</p>
