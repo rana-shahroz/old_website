@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+subtitle: <a href='../assets/pdf/Resume.pdf'>Resume (Updated June 2022)</a>.
 
 profile:
   align: right
