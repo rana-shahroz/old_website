@@ -13,11 +13,13 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Rana Muhammad Shahroz Khan ( I go by Rana ). I am a rising Junior at Vanderbilt University currently working with Dr. Soheil Kolouri in their Mathematical Intelligence and Neural Technologies Lab (MINT Lab). <br>
+
+**Interests :** My interests lie in the intersection of Computer Vision and Reinforcement Learning and their research as well implementation. I am interested in the research regarding these fields but I am also interested in the practical implications these abstract research ideas generate. <br>
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
