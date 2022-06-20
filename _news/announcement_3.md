@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-06-06
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will be working as a Software Engineer Intern at Vanderbilt Institute of Software Integrated Systems on Cyberphysical Systems Wind Tunnel to allow Hetrogenous Simulations to be run concurrently.
