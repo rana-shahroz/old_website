@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Rana Muhammad Shahroz Khan ( I go by Rana ). I am a rising Junior at Vanderbilt University currently working with Dr. Soheil Kolouri in their Mathematical Intelligence and Neural Technologies Lab (MINT Lab). <br>
+My name is Rana Muhammad Shahroz Khan ( I go by Rana ). I am a first year PhD Student at UNC Chapel Hill, advised by [Dr. Tianlong Chen](https://tianlong-chen.github.io) <br>
 
-**Interests :** My interests lie in the intersection of Computer Vision and Reinforcement Learning and their research as well implementation. I am interested in the research regarding these fields but I am also interested in the practical implications these abstract research ideas generate. <br>
+**Interests :** My interests lie broadly under Efficient ML.<br>
